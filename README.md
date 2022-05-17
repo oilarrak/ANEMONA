@@ -12,7 +12,8 @@ This text file.
 
 Please note that, although I love to maintain it, circumstances make it almost impossible for me to do it as thouroughly as I should like and errors may be found. Nevertheless, I will be happy to provide any help I can if contacted at:
 
-agustin.hernandez@usp.br (alternative mail, but much less often checked: ahernan@cica.es).
+agustin.hernandez@ufscar.br (alternative mail, but much less often checked: oilarrak@yahoo.es).
+Previous e-mail addresses ending in @usp.br and @cica.es are no longer in use
 
 For chemistry issues (Dry Reforming reaction-related) you may find useful to contact: lidia.pino@itae.cnr.it
 
